@@ -1,11 +1,35 @@
-# Projeto desenvolvido no curso de UI&UX Design do [Origamid](https://www.origamid.com/curso/ui-design-para-iniciantes/)
-### Refiz o design do curso para criar um exemplo de landing page para portfólio, onde me insiro como exemplo.
+# Portfólio Landing Page — UI & UX Design
 
-## Tech Stack:
-* Figma;
-* HTML;
-* CSS.
+Projeto desenvolvido durante o curso de UI & UX Design da [Origamid](https://www.origamid.com/curso/ui-design-para-iniciantes/).
 
-## Design:
-> Todo refeito com outra paleta de cores e uma arte produzida por mim para simular uma foto:
->> <img src="./img/paleta.png" alt="paleta de cores esverdeadas acinzentadas" width="80"/> <img src="./img/icon.png" alt="desenho digital de uma pessoa de cabelos vermelhos e óculos" width="300"/>
+Refiz o layout do curso para criar uma landing page de portfólio, utilizando uma proposta visual própria. O objetivo era desenvolver uma página que representasse um perfil profissional, com identidade visual original e elementos gráficos produzidos por mim.
+
+## Tech Stack
+- Figma
+- HTML
+- CSS
+
+## Sobre o projeto
+Este projeto é uma landing page para portfólio, com foco em:
+- estética visual moderna;
+- paleta de cores personalizada;
+- identidade visual original;
+- apresentação clara de perfil e serviços/projetos;
+- design responsivo.
+
+## Design
+Todo o visual foi recriado com uma nova paleta de cores e uma arte produzida por mim para simular uma imagem de perfil:
+
+<img src="./img/paleta.png" alt="paleta de cores esverdeadas acinzentadas" width="80" /> <img src="./img/icon.png" alt="desenho digital de uma pessoa de cabelos vermelhos e óculos" width="300" />
+
+## Estrutura do projeto
+```text
+/
+├── index.html
+├── css/
+│   └── style.css
+├── img/
+│   ├── paleta.png
+│   └── icon.png
+└── README.md
+```
