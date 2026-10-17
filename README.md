@@ -1,6 +1,6 @@
-# Portfólio Landing Page — UI & UX Design
+# Portfólio Landing Page — UI & UX Design e HTML & CSS 
 
-Projeto desenvolvido durante o curso de UI & UX Design da [Origamid](https://www.origamid.com/curso/ui-design-para-iniciantes/).
+Projeto desenvolvido durante o curso de UI & UX Design e HTML e CSS para iniciantes da [Origamid](https://www.origamid.com/)
 
 Refiz o layout do curso para criar uma landing page de portfólio, utilizando uma proposta visual própria. O objetivo era desenvolver uma página que representasse um perfil profissional, com identidade visual original e elementos gráficos produzidos por mim.
 
